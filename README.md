@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Microservices based Application**.
 - 👯 I’m looking to collaborate on **Open Source Project**.
 - 💬 Ask me about **Technology**.
+- 📝 Exploring AI
 - 📫 How to reach me: **imyom25@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/imyom25/** 
 - 📝 Sometimes blog on : **https://medium.com/@imyom25**
